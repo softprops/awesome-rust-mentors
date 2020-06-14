@@ -62,6 +62,12 @@
 * **Additional Resources**:
     * [My blog](https://phaazon.net/blog)
 
+### Doug Tangren ([@softprops](https://github.com/softprops))
+* **Pronouns**: he/him
+* **Contact**: Twitter ([@softprops](https://twitter.com/softprops)),  Email ([d.tangren@gmail.com](mailto://d.tangren@gmail.com)), Discord (softprops#1989)
+* **Spoken Languages**: English
+* **Topics**: Beginners, intermediates. Transitioning to Rust from Scala/Java/Typescript. Community. Open source. Effective std lib. Command line tools, AWS/Serverless.
+
 ### Dylan DPC ([@Dylan-DPC](https://github.com/Dylan-DPC))
 * **Pronouns**: he/him
 * **Contact**: Discord (@dpc), Twitter ([@dpc_22](https://twitter.com/dpc_22))
@@ -176,7 +182,7 @@
 * **Spoken Languages**: _English_, Spanish, German
 * **Topics**: Learning Rust from nothing or experienced newcomers
 * **Additional Resources**: I maintain [Static Assertions](https://github.com/nvzqz/static-assertions-rs), so I'd be happy to teach people how it works
-
+ 
 ### Oli ([@oli-obk](https://github.com/oli-obk))
 * **Pronouns**: he/him
 * **Contact**: Zulip ([@oli](https://rust-lang.zulipchat.com/)), Github ([@oli-obk](https://github.com/oli-obk)), Discord ([oli#1337](https://discordapp.com/invite/rust-lang))
